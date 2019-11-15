@@ -1,28 +1,28 @@
-# EtcherLaser アプリ マニュアル
+# EtcherLaser App Manual
 
-このリポジトリでは、下記の4つのブランチで運用します。  
+This repository have following four branches.
 
 ------
 
 #### master_jp
-日本語版のマスターブランチです。日本語マニュアルのWordPressからはこのブランチを参照します。
+This is the master branch of Japanese. This branch is Refered from the Japanese manual (WordPress).
 
 #### draft_jp
-日本語版の編集用ブランチです。
+This is the branch for edit of Japanese.
 
 ------
 
 #### master_en
-英語版のマスターブランチです。英語マニュアルのWordPressからはこのブランチを参照します。
+This is the master branch of English. This branch is Refered from the English manual (WordPress).
 
 #### draft_en
-英語版の編集用ブランチです。
+This is the branch for edit of English.
 
 ------
 
-## 編集について
-編集は必ず **draft_jp** ブランチで行なってください。編集が全て完了したら **master_jp** ブランチへマージします。
+## About Edit
+Be sure to use **draft_en** branch for editing. When editing is complete, merge to **master_en** branch.
 
-#### 備考
+#### Remarks
 
-`_source`フォルダはgit管理されません。
+`_source` folder is not managed by git.

@@ -1,28 +1,28 @@
-# 設定
+This section describes the settings.
 
 <p align="center">
 <img alt="SmartScreen" src="./images/settings/settings.png" style="width:35%">
 </p>
 
-## 加工機
-ここでは加工位置のオフセットを設定します。
-キャプチャ画像と実際の加工位置にズレが発生する場合、この数値（単位: mm）を変更します。
-- X軸オフセット: プラスの値を入力すると加工位置が右に移動します
-- Y軸オフセット: プラスの値を入力すると加工位置が下に移動します。
+## Machine
+You can set the machining position offset here.
+If there is a discrepancy between the captured image and the actual processing position, change this value (unit: mm).
+- Offset X: Entering a positive value moves the machining position to the right.
+- Offset Y: Entering a positive value moves the machining position downward.
 
-加工位置のズレは下記の原因でも発生します。一度こちらもご確認ください。
-- キャプチャ時の高さ設定が適切でない場合
-- レーザヘッドの高さ調整時にレーザヘッドが傾いている場合
+Misalignment of the machining position can also occur for the following reasons. Please check here once.
+- If the height setting at capture is not appropriate
+- When the laser head is tilted when adjusting the height of the laser head
 
-## Wi-Fi設定
-EtcherLaserのご利用環境にWi-Fiルータがある場合、そのルータの設定情報を入力することでEtcherLaserへLAN経由で接続できます。
+## Wi-Fi Setting
+If there is a Wi-Fi router in the environment where EtcherLaser is used, you can connect to EtcherLaser via LAN by entering the setting information of that router.
 
-## ファームウェア
-ファームウェアがアップデート可能な場合は、こちらからアップデートすることができます。
-ファームウェアはアプリ内に含まれているため、アプリも最新の状態にしておくことをお勧めいたします。
+## Firmware
+If app has latest firmware, you can update it here.
+Since the firmware is included in the app, we recommend that you keep the app up to date.
 
-## 接続ガイド
-EtcherLaserと直接接続する際はこちらの接続ガイドをお使いください。EtcherLaser背面のQRコードを読み込むことで、スマートフォンとEtcherLaserをWi-Fiで接続することができます。
+## Connection Guide
+Use this connection guide when connecting directly to EtcherLaser. By reading the QR code on the back of EtcherLaser, you can connect your smartphone and EtcherLaser via Wi-Fi.
 
-## ヘルプ
-EtcherLaserの使い方ページを開きます。
+## Help
+Open the EtcherLaser guide page.

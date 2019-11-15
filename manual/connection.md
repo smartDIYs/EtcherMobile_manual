@@ -1,47 +1,47 @@
-ここでは、アプリとEtcherLaser加工機の接続方法について説明します。
+This section explains how to connect the app and EtcherLaser machine.
 
 
-## スマートフォンとEtcherLaserのWi-Fi接続方法
+## Wi-Fi connection method between smartphone and EtcherLaser
 
-アプリからEtcherLaserを操作するには、スマートフォンとEtcherLaserをWi-Fiで接続する必要があります。
-このWi-Fiの接続方法は下記の2種類があります。
+To operate EtcherLaser from the app, you need to connect your smartphone and EtcherLaser via Wi-Fi.
+There are the following two types of Wi-Fi connection methods.
 
-### EtcherLaserへ直接接続
-EtcherLaserをアクセスポイントとして、スマートフォンからEtcherLaserへ接続します。
-接続ガイドで設定される接続方法はこちらの方法となっております。
-手軽に接続することができ、ルータも必要ありませんが、接続中はインターネットへの接続ができません。
+### Direct connection to EtcherLaser
+Connect EtcherLaser to EtcherLaser using EtcherLaser as an access point.
+The connection method used by the connection guide is this method.
+It can be connected easily and does not require a router, but you cannot connect to the Internet while connected.
 
 <p align="center">
 <img alt="GridItem" src="./images/connection/wifi_connection_ap.png" style="width:80%">
 </p>
 
 
-### Wi-Fiルータ経由でEtcherLaserへ接続
-EtcherLaserをお使いの環境にWi-Fiルータがある場合、このルータ経由でEtcherLaserへ接続することができます。
-設定方法は下記の通りです。
+### Connect to EtcherLaser via Wi-Fi router
+If you have a Wi-Fi router in your environment, you can connect to EtcherLaser via this router.
+The setting method is as follows.
 
 ```
-EtcherLaserは2.4GHzのみ対応しております。
-ルータに接続する場合は2.4GHzで接続してください。
-※多くの場合、SSIDに"G"や"2G"などの文字が入ります。
+EtcherLaser only supports 2.4GHz.
+When connecting to the router, connect with 2.4GHz.
+*In many cases, characters such as "G" and "2G" are included in the SSID.
 ```
 
-1. EtcherLaserへ直接接続します。
-2. アプリ > 設定 > Wi-Fi 設定を開き、お使いのWi-Fiルータの設定情報を入力します。
-3. 書き込みボタンをタップし、書き込みが完了したらEtcherLaserを再起動します。
-4. スマートフォンのWi-Fi接続先をお使いのWi-Fiルータへ変更します。
+1. Connect directly to EtcherLaser.
+2. Open Apps> Settings> Wi-Fi settings and enter the account information for your Wi-Fi router.
+3. Tap the write button and restart EtcherLaser when the write is complete.
+4. Change the Wi-Fi connection destination of the smartphone to your Wi-Fi router.
 
 
-Wi-Fiルータが設置されている必要がありますが、この方法ではインターネット接続をしながらEtcherLaserを操作することができます。
-※Wi-Fiルータがインターネットに接続されている場合
+A Wi-Fi router must be required, but with this method you can operate EtcherLaser while connected to the Internet.  
+* When the Wi-Fi router is connected to the Internet.
 
 <p align="center">
 <img alt="GridItem" src="./images/connection/wifi_connection_sta.png" style="width:80%">
 </p>
 
-## アプリとEtcherLaserの接続方法
-
-EtcherLaserとWi-Fiで接続ができたら、加工機一覧に接続可能なEthcerLaserの一覧が表示されます。使用するEthcerLaserをタップすると接続が完了します。
+## How to connect the app and EtcherLaser
+After connecting to EtcherLaser via Wi-Fi, a list of EthcerLaser that can be connected to the list of machines will be displayed.
+If you tap the EthcerLaser you want to use, connection has complete.
 
 <p align="center">
 <img alt="GridItem" src="./images/connection/select_machine.png" style="width:35%">
