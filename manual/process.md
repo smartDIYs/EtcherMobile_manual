@@ -1,32 +1,45 @@
-ここでは、プロジェクトの加工方法をについて説明します。
-ます加工を行うプロジェクトを開き、プロジェクト編集画面を表示します。
+This section explains how to laser processing.  
+First, open the project to be processed, and display the project edit screen.
 
-## 加工機との接続
-加工機と接続していない場合は、画面上部の「未接続」をタップし、「接続」をタップします。
-操作対象のEtcherLaserのシリアルナンバーをタップし、加工機と接続を行います。
+## Connect to machine
+If you are not connected to the machine, tap “Disconnected” at the top of the screen, then tap “Connect”.
+Tap the serial number of the target EtcherLaser to connect to the machine.
 
-## レーザヘッドの高さ調整
+## Setting of focal length
 
-加工機操作メニューを開き、位置確認をタップします。
-表示されるレーザヘッドを素材の上に配置し「移動」ボタンをタップします。
+Open the machine operation menu and tap Position Check.
+Drag the displayed laser head on the material and tap the "Move" button.
 
-レーザヘッドが素材の上に移動したら、高さ調整治具を使い焦点距離を調整します。  
-※レーザヘッドが傾いていると、位置ずれの原因になります。
+When the laser head moved over the material, use the height adjustment jig to adjust the focal length.
+※If the laser head is tilted, it may cause misalignment.
 
-高さ調整が完了したら、画面上の「戻る」を押してプロジェクト編集画面に戻ります。
+When the height adjustment is complete, press “Back” on the screen to return to the project editing screen.
 
-## 位置の確認
+## Check position
 
-加工機操作メニューを開き、「キャプチャ」ボタンをタップします。ここでキャプチャ面の高さを入力してください。  
-※基本的には素材の高さ（加工ベッドから加工面の高さ）を入力します。  
-※底を開けて加工する場合は、加工ベッドを基準として加工面の高さをマイナスの数値で入力します。  
-※入力した高さが正しくない場合、位置ずれの原因になります。
+Open the machine operation menu and tap the “Capture” button. Enter the capture surface height here.
+※ Usually, enter the height of the material (the height of the machining surface from the machining bed).
+※ When machining with the bottom open, enter the height of the machining surface as a negative value based on the machining bed.
+※ If the entered height is not correct, it may cause misalignment.
 
-## 位置の調整
-キャプチャが完了すると、キャンバス上に加工エリアのキャプチャ画像が表示されます。
-加工アイテムとの位置関係を確認し、加工アイテムまたは素材の位置を調整してください。
+## Position adjustment
+When the capture is complete, the captured image of the work area is displayed on the canvas.
+Check the positional relationship with the graphics item and adjust the position of the graphics item or material.
 
-## 加工の開始
-加工機操作メニューを開き、「スタート」ボタンをタップすると、推定加工時間が表示されます。
-「加工開始」ボタンをタップすると、加工データがEtcherLaserに送信されます。
-その後、加工機のスタートボタン（緑色に点滅）を長押しすると実際に加工がスタートします。
+## Processing start
+
+### Safety check items
+
+- Is the height of the laser head correctly adjusted?
+- Are there any obstacles in the processing area or near the processing machine?
+- Is the bottom plate closed properly?
+- When processing with the bottom open, is the base under the material safe from burning?  
+(Laser light may reach the base depending on the thickness of the material)
+- Is the processing range completely over the material?
+
+-----------------
+
+Open the machine operation menu and tap the “Start” button to display the estimated machining time.
+Tap the “Start” button and the processing data will be sent to EtcherLaser.
+
+After that, press and hold the start button (flashing green) of the processing machine to actually start processing.

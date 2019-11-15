@@ -1,66 +1,66 @@
-## プロジェクト一覧画面
+## Project list
 
-作成したプロジェクトの一覧が表示されています。各プロジェクトをタップすると、プロジェクト編集画面が開きます。
-また、セルの右下にある **…** をタップするとプロジェクト名の編集や、プロジェクトの複製・削除ができます。
+A list of created projects is displayed. Tap each project to open the project edit screen.
+Also, If you tap **…** at the bottom right of the cell, you can edit the project name and duplicate / delete the project.
 
 <p align="center">
 <img alt="SmartScreen" src="./images/names/project_list.png" style="width:35%">
 </p>
 
-プロジェクトファイルをまとめて削除したい場合は、下記の手順で一括削除できます。
-1. 画面右上の「編集」をタップして編集モードに切り替えます。
-2. 削除するプロジェクトを一括選択します。
-3. 画面左上のゴミ箱マークをクリックします。
-4. 画面右上の「完了」をタップして編集モードを解除します。
+If you want to delete project files at once, you can delete them in the following procedure.
+1. Tap “Edit” at the top right of the screen to switch to edit mode.
+2. Select the projects to be deleted.
+3. Click the trash can icon at the top left of the screen.
+4. Tap “Done” at the top right of the screen to exit edit mode.
 
 
-## プロジェクト編集画面
+## Project editing
 
-この画面では、プロジェクトを編集して加工用データを作成できます。
+On this screen, you can edit the project to create machining data.
 
-### アイテム追加
+### Add Item menu
 
-左下の「+」ボタンをタップすると、加工アイテムを追加することができます。
+Tap the “+” button at the bottom left to add a processed item.
 
-- スキャン: 加工機本体のカメラでスキャンした画像を取り込みます。
-- アセット: アプリに含まれるアセットから加工アイテムを追加することができます。
-- テキスト: テキストから加工アイテムを追加することができます。
-- ライブラリ: iOSのカメラロールに保存された画像からアイテムを追加することができます。
-- カメラ: iOSのカメラを起動し、撮影した画像からアイテムを追加することができます。
+- Scan: Add image Item by scanned with the camera of the machine.
+- Assets: Add item from assets included in the app.
+- Text: Add text item from text.
+- Library: Add item from images stored in the iOS camera roll.
+- Camera: Launch the iOS camera and add item from the captured image.
 
 <p align="center">
 <img alt="SmartScreen" src="./images/names/add_assets.png" style="width:35%">
 </p>
 
-### アイテムリスト
-画面下には追加したアイテム一覧が表示されています。
-サムネイルをクリックするとパラメータ設定画面が表示されいます。
-アイテムを削除したい場合は、サムネイルを長押して「削除」をタップします。
+### Item list view
+The added items is displayed at the bottom of the screen.
+Click the thumbnail to display the parameter setting screen.
+If you want to delete an item, touch and hold the thumbnail and tap “Delete”.
 
 <p align="center">
 <img alt="SmartScreen" src="./images/names/item_list.png" style="width:35%">
 </p>
 
-### パラメータ設定画面
-アイテムリストに表示されているアイテムをクリックすると表示され、対象のアイテムの加工パラメータを設定します。
+### Parameter Setting view
+It is displayed when you click an item displayed in the item list, and you can set the processing parameters of the target item.
 
-- マニュアル: アイテムの加工の有効・無効やパラメータを手動で設定できます。また、設定したパラメータをユーザ辞書へ登録できます。
-- ユーザ辞書: 登録したパラメータを選択できます。
+- Manual: You can set parameters manually. In addition, the set parameters can be registered in the user dictionary.
+- User dictionary: Registered parameters can be selected.
 
 
-### 加工機コントロールメニュー
-- スタート: 対象のプロジェクトの加工データを作成し、加工機へ送信します。
-- 動作停止: 加工中のEtcherLaserの動作を停止します。
-- 原点復帰: レーザヘッドを機械原点へ移動します。
-- キャプチャ: 加工エリアの画像をキャンバス上に表示します。
-- 位置確認: レーザヘッドを移動させることができます。焦点距離の調整時に利用します。
+### Machine control menu
+- Start: Create processing data for the opened project and send it to the machine.
+- Stop operation: Stops the operation of EtcherLaser during machining.
+- Origin return: Move the laser head to the machine origin.
+- Capture: Displays the image of the work area on the canvas.
+- Position confirmation: The laser head can be moved. This is used when adjusting the focal length.
 
 <p align="center">
 <img alt="SmartScreen" src="./images/names/control_menu.png" style="width:35%">
 </p>
 
-## 設定
-- ユーザ設定: 各種設定を行うことができます。
+## Setting
+- Setting: You can make various settings.
 
 <p align="center">
 <img alt="SmartScreen" src="./images/names/settings.png" style="width:35%">

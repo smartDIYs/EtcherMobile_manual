@@ -1,26 +1,26 @@
 [
   {
     "file": "about.md",
-    "title": "概要"
+    "title": "Product outline"
   },
   {
     "file": "names.md",
-    "title": "各部名称"
+    "title": "Name of each part"
   },
   {
     "file": "parameter.md",
-    "title": "パラメータ設定"
+    "title": "Parameter settings"
   },
   {
     "file": "process.md",
-    "title": "加工操作"
+    "title": "Machining operation"
   },
   {
     "file": "usersetting.md",
-    "title": "ユーザ設定"
+    "title": "User setting"
   },
   {
     "file": "connection.md",
-    "title": "加工機への接続"
+    "title": "Connection to machine"
   }
 ]
