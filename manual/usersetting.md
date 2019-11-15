@@ -1,7 +1,7 @@
 # 設定
 
 <p align="center">
-<img alt="SmartScreen" src="./images/settings/settings.png" style="width:40%">
+<img alt="SmartScreen" src="./images/settings/settings.png" style="width:35%">
 </p>
 
 ## 加工機

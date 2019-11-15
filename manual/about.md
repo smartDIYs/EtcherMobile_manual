@@ -4,7 +4,7 @@ EtcherLaser は EtcherLaserシリーズ対応の加工用アプリケーショ�
 ---
 
 <p align="center">
-<img alt="SmartScreen" src="./images/about/app_icon.png" style="width:35%">
+<img alt="SmartScreen" src="./images/about/app_icon.png" style="width:30%">
 </p>
 
 ## 製品仕様

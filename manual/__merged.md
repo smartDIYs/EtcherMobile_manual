@@ -6,7 +6,7 @@ EtcherLaser は EtcherLaserシリーズ対応の加工用アプリケーショ�
 ---
 
 <p align="center">
-<img alt="SmartScreen" src="./images/about/app_icon.png" style="width:35%">
+<img alt="SmartScreen" src="./images/about/app_icon.png" style="width:30%">
 </p>
 
 ## 製品仕様
@@ -35,12 +35,10 @@ https://web.messageplus.jp/information/help/app/iOS/index.html
 <div style="page-break-before:always"></div>
 
 # 各部名称
-# 各部名称
-
-# プロジェクト一覧画面
+## プロジェクト一覧画面
 
 作成したプロジェクトの一覧が表示されています。各プロジェクトをタップすると、プロジェクト編集画面が開きます。
-また、セルの右下にある **・・・** をタップするとプロジェクト名の編集や、プロジェクトの複製・削除ができます。
+また、セルの右下にある **…** をタップするとプロジェクト名の編集や、プロジェクトの複製・削除ができます。
 
 <p align="center">
 <img alt="SmartScreen" src="./images/names/project_list.png" style="width:40%">
@@ -53,11 +51,11 @@ https://web.messageplus.jp/information/help/app/iOS/index.html
 4. 画面右上の「完了」をタップして編集モードを解除します。
 
 
-# プロジェクト編集画面
+## プロジェクト編集画面
 
 この画面では、プロジェクトを編集して加工用データを作成できます。
 
-## アイテム追加
+### アイテム追加
 
 左下の「+」ボタンをタップすると、加工アイテムを追加することができます。
 
@@ -71,7 +69,7 @@ https://web.messageplus.jp/information/help/app/iOS/index.html
 <img alt="SmartScreen" src="./images/names/add_assets.png" style="width:40%">
 </p>
 
-## アイテムリスト
+### アイテムリスト
 画面下には追加したアイテム一覧が表示されています。
 サムネイルをクリックするとパラメータ設定画面が表示されいます。
 アイテムを削除したい場合は、サムネイルを長押して「削除」をタップします。
@@ -80,14 +78,14 @@ https://web.messageplus.jp/information/help/app/iOS/index.html
 <img alt="SmartScreen" src="./images/names/item_list.png" style="width:40%">
 </p>
 
-## パラメータ設定画面
+### パラメータ設定画面
 アイテムリストに表示されているアイテムをクリックすると表示され、対象のアイテムの加工パラメータを設定します。
 
 - マニュアル: アイテムの加工の有効・無効やパラメータを手動で設定できます。また、設定したパラメータをユーザ辞書へ登録できます。
 - ユーザ辞書: 登録したパラメータを選択できます。
 
 
-## 加工機コントロールメニュー
+### 加工機コントロールメニュー
 - スタート: 対象のプロジェクトの加工データを作成し、加工機へ送信します。
 - 動作停止: 加工中のEtcherLaserの動作を停止します。
 - 原点復帰: レーザヘッドを機械原点へ移動します。
@@ -98,7 +96,7 @@ https://web.messageplus.jp/information/help/app/iOS/index.html
 <img alt="SmartScreen" src="./images/names/control_menu.png" style="width:40%">
 </p>
 
-### 設定
+## 設定
 - ユーザ設定: 各種設定を行うことができます。
 
 <p align="center">
@@ -160,9 +158,8 @@ FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピ
 <div style="page-break-before:always"></div>
 
 # 加工操作
-# 加工
-
-加工を行うプロジェクトを開き、プロジェクト編集画面を表示します。
+ここでは、プロジェクトの加工方法をについて説明します。
+ます加工を行うプロジェクトを開き、プロジェクト編集画面を表示します。
 
 #### 加工機との接続
 加工機と接続していない場合は、画面上部の「未接続」をタップし、「接続」をタップします。
@@ -229,14 +226,17 @@ EtcherLaserの使い方ページを開きます。
 <div style="page-break-before:always"></div>
 
 # 加工機への接続
-# EtcherLaserとの接続
+ここでは、アプリとEtcherLaser加工機の接続方法について説明します。
 
-スマートフォンとEtcherLaserはWi-Fiで接続することができます。
-また、このWi-Fiの接続方法は下記の2種類があります。
 
-## EtcherLaserへ直接接続
+## スマートフォンとEtcherLaserのWi-Fi接続方法
+
+アプリからEtcherLaserを操作するには、スマートフォンとEtcherLaserをWi-Fiで接続する必要があります。
+このWi-Fiの接続方法は下記の2種類があります。
+
+### EtcherLaserへ直接接続
 EtcherLaserをアクセスポイントとして、スマートフォンからEtcherLaserへ接続します。
-接続ガイドで設定させる接続方法はこちらの方法となっております。
+接続ガイドで設定される接続方法はこちらの方法となっております。
 手軽に接続することができ、ルータも必要ありませんが、接続中はインターネットへの接続ができません。
 
 <p align="center">
@@ -244,7 +244,7 @@ EtcherLaserをアクセスポイントとして、スマートフォンからEtc
 </p>
 
 
-## Wi-Fiルータ経由でEtcherLaserへ接続
+### Wi-Fiルータ経由でEtcherLaserへ接続
 EtcherLaserをお使いの環境にWi-Fiルータがある場合、このルータ経由でEtcherLaserへ接続することができます。
 設定方法は下記の通りです。
 
@@ -265,6 +265,14 @@ Wi-Fiルータが設置されている必要がありますが、この方法で
 
 <p align="center">
 <img alt="GridItem" src="./images/connection/wifi_connection_sta.png" style="width:80%">
+</p>
+
+## アプリとEtcherLaserの接続方法
+
+EtcherLaserとWi-Fiで接続ができたら、加工機一覧に接続可能なEthcerLaserの一覧が表示されます。使用するEthcerLaserをタップすると接続が完了します。
+
+<p align="center">
+<img alt="GridItem" src="./images/connection/select_machine.png" style="width:40%">
 </p>
 
 <div style="page-break-before:always"></div>

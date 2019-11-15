@@ -1,11 +1,14 @@
-# EtcherLaserとの接続
+ここでは、アプリとEtcherLaser加工機の接続方法について説明します。
 
-スマートフォンとEtcherLaserはWi-Fiで接続することができます。
-また、このWi-Fiの接続方法は下記の2種類があります。
 
-## EtcherLaserへ直接接続
+## スマートフォンとEtcherLaserのWi-Fi接続方法
+
+アプリからEtcherLaserを操作するには、スマートフォンとEtcherLaserをWi-Fiで接続する必要があります。
+このWi-Fiの接続方法は下記の2種類があります。
+
+### EtcherLaserへ直接接続
 EtcherLaserをアクセスポイントとして、スマートフォンからEtcherLaserへ接続します。
-接続ガイドで設定させる接続方法はこちらの方法となっております。
+接続ガイドで設定される接続方法はこちらの方法となっております。
 手軽に接続することができ、ルータも必要ありませんが、接続中はインターネットへの接続ができません。
 
 <p align="center">
@@ -13,7 +16,7 @@ EtcherLaserをアクセスポイントとして、スマートフォンからEtc
 </p>
 
 
-## Wi-Fiルータ経由でEtcherLaserへ接続
+### Wi-Fiルータ経由でEtcherLaserへ接続
 EtcherLaserをお使いの環境にWi-Fiルータがある場合、このルータ経由でEtcherLaserへ接続することができます。
 設定方法は下記の通りです。
 
@@ -34,4 +37,12 @@ Wi-Fiルータが設置されている必要がありますが、この方法で
 
 <p align="center">
 <img alt="GridItem" src="./images/connection/wifi_connection_sta.png" style="width:80%">
+</p>
+
+## アプリとEtcherLaserの接続方法
+
+EtcherLaserとWi-Fiで接続ができたら、加工機一覧に接続可能なEthcerLaserの一覧が表示されます。使用するEthcerLaserをタップすると接続が完了します。
+
+<p align="center">
+<img alt="GridItem" src="./images/connection/select_machine.png" style="width:35%">
 </p>
