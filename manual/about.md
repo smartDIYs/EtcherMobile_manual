@@ -26,6 +26,3 @@ png / jpg / tif
 - 内容に関しては予告無しに更新されることがあります。
 - 本製品の運用を理由とする損失、逸失利益などの請求につきましては、いかなる責任も負いかねますのであらかじめご了承ください。
 - Apple、App Store、Apple ロゴ、Mac、Mac OS、OS X、macOS、iPad、iPhoto、iPod touch、および iTunes は、Apple Inc. の商標です。
-
-
-https://web.messageplus.jp/information/help/app/iOS/index.html
