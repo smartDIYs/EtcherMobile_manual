@@ -26,6 +26,3 @@ png / jpg / tif
 - Contents may be updated without notice.
 - Please note that we cannot accept any responsibility for detriment, lost profits, etc. due to the operation of this product.
 - Apple, App Store, Apple logo, Mac, Mac OS, OS X, macOS, iPad, iPhoto, iPod touch, and iTunes are trademarks of Apple Inc.
-
-
-https://web.messageplus.jp/information/help/app/iOS/index.html
