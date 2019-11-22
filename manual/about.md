@@ -1,5 +1,5 @@
-EtcherLaser App is application for laser processing, compatible with the EtcherLaser.
-This is application that takes in image data, edits the layout, sets laser parameters, and performs processing.
+EtcherLaser App is an application for laser processing, compatible with the Etcher Laser.
+This is an application that takes in image data, edits the layout, sets laser parameters, and performs processing.
 
 ---
 
@@ -9,7 +9,7 @@ This is application that takes in image data, edits the layout, sets laser param
 
 ## Product Specification
 ### Supported products
-EtcherLaser
+Etcher Laser
 
 ### Supported files
 png / jpg / tif
@@ -22,7 +22,7 @@ png / jpg / tif
 - Not compatible
 
 ## Document Disclaimer
-- Screen shots, etc. of this manual may differ from the actual display of the software.
+- Screenshots, etc. in this manual may differ from the actual display of the software.
 - Contents may be updated without notice.
 - Please note that we cannot accept any responsibility for detriment, lost profits, etc. due to the operation of this product.
 - Apple, App Store, Apple logo, Mac, Mac OS, OS X, macOS, iPad, iPhoto, iPod touch, and iTunes are trademarks of Apple Inc.
