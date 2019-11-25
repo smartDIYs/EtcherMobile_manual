@@ -26,7 +26,7 @@ When connecting to the router, connect with 2.4GHz.
 ```
 
 1. Connect directly to EtcherLaser.
-2. Open EtcherLaser App > Settings > Wi-Fi settings and enter the account information for your Wi-Fi router.
+2. Open the EtcherLaser App > Settings > Wi-Fi settings and enter the account information for your Wi-Fi router.
 3. Tap the write button and restart EtcherLaser when the write is complete.
 4. Change the Wi-Fi connection destination of the smartphone to your Wi-Fi router.
 
