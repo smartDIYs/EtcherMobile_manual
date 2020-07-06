@@ -17,12 +17,18 @@ Misalignment of the processing position can also occur for the following reasons
 ## Wi-Fi Setting
 If there is a Wi-Fi router in the environment where the Etcher Laser is used, you can connect to your Etcher Laser via LAN by entering the setting information of that router.
 
+## Passcode Lock
+You can set a 4-digit passcode on the Etcher Laser to restrict its use.  
+The Etcher Laser with passcode cannot be operated without passcode authentication when connecting.  
+This function can be enabled/disabled.
+
 ## Firmware
-If app has new firmware, you can update it here.
+If app has new firmware, you can update it here.  
 Since the firmware is included in the app, we recommend that you keep the app up to date.
 
 ## Connection Guide
-Use this connection guide when connecting directly to the Etcher Laser. By scanning the QR code on the back of the Etcher Laser, you can connect your smartphone and Etcher Laser via Wi-Fi.
+Use this connection guide when connecting directly to the Etcher Laser.  
+By scanning the QR code on the back of the Etcher Laser, you can connect your smartphone and Etcher Laser via Wi-Fi.
 
 ## Help
 Open the Etcher Laser guide page.
