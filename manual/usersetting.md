@@ -18,7 +18,8 @@ Misalignment of the processing position can also occur for the following reasons
 If there is a Wi-Fi router in the environment where the Etcher Laser is used, you can connect to your Etcher Laser via LAN by entering the setting information of that router.
 
 ## Passcode Lock
-You can set a 4-digit passcode on Etcher Laser to restrict its use.   EtcherLaser with passcode cannot be operated without passcode authentication when connecting.  
+You can set a 4-digit passcode on the Etcher Laser to restrict its use.  
+The Etcher Laser with passcode cannot be operated without passcode authentication when connecting.  
 This function can be enabled/disabled.
 
 ## Firmware
