@@ -9,7 +9,7 @@ EtcherLaser は EtcherLaserシリーズ対応の加工用アプリケーショ�
 
 ## 製品仕様
 ### 対応製品
-EtcherLaser / EtcherLaserPro
+Etcher Laser / Etcher Laser Pro
 
 ### 対応ファイル
 png / jpg / tif
