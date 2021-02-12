@@ -9,7 +9,7 @@ This is an application that takes in image data, edits the layout, sets laser pa
 
 ## Product Specification
 ### Supported products
-Etcher Laser
+Etcher Laser / Etcher Laser Pro
 
 ### Supported files
 png / jpg / tif
