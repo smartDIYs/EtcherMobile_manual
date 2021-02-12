@@ -25,8 +25,8 @@ Tap the “+” button at the bottom left to add a new project.
 - Scan: Add image(s) by scanning with the camera of the machine.
 - Assets: Add item(s) from assets included in the app.
 - Text: Add text item(s) by typing and editing text.
-- Library: Add item(s) from images stored in the iOS camera roll.
-- Camera: Launch the iOS camera and add item(s) from new photograph(s).
+- Library: Add item(s) from images stored in the device photo library.
+- Camera: Launch the device camera and add item(s) from new photograph(s).
 
 <p align="center">
 <img alt="SmartScreen" src="./images/names/add_assets.png" style="width:35%">
