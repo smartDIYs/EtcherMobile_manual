@@ -12,7 +12,7 @@ EtcherLaser は EtcherLaserシリーズ対応の加工用アプリケーショ�
 Etcher Laser / Etcher Laser Pro
 
 ### 対応ファイル
-png / jpg / tif
+png / jpg / gif / bmp / svg
 
 ### ソフトウェアの動作要件
 #### iOS
