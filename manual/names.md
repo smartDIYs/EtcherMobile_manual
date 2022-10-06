@@ -25,7 +25,8 @@ Tap the “+” button at the bottom left to add a new project.
 - Scan: Add image(s) by scanning with the camera of the machine.
 - Assets: Add item(s) from assets included in the app.
 - Text: Add text item(s) by typing and editing text.
-- Library: Add item(s) from images stored in the device photo library.
+- Library: Add item(s) from images stored in the device photo library. (iOS only)
+- File: Add item(s) from images stored in the device.
 - Camera: Launch the device camera and add item(s) from new photograph(s).
 
 <p align="center">
@@ -35,7 +36,7 @@ Tap the “+” button at the bottom left to add a new project.
 ### Item list view
 The added item is displayed at the bottom of the screen.
 Click the thumbnail to display the parameter settings screen.
-If you want to delete an item, touch and hold the thumbnail and tap “Delete”.
+You can also change the processing order by long-pressing and dragging the thumbnail.
 
 <p align="center">
 <img alt="SmartScreen" src="./images/names/item_list.png" style="width:35%">

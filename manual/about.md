@@ -12,7 +12,7 @@ This is an application that takes in image data, edits the layout, sets laser pa
 Etcher Laser / Etcher Laser Pro
 
 ### Supported files
-png / jpg / tif
+png / jpg / gif / bmp / svg
 
 ### Software operating requirements
 #### iOS

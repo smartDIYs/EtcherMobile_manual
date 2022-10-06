@@ -4,6 +4,12 @@ This section explains the parameter settings.
 <img alt="UserOrigin" src="./images/parameter/about.png" style="width:50%">
 </p>
 
+## Enable
+You can set whether to process the target item. If "Enable" is unchecked, the item will not be processed.
+```
+※ Graphic objects for items that are unchecked for enabled have their tap selection operations disabled.
+※ You can select a group that contains invalid objects.
+```
 
 ## Speed
 Set the moving speed of the laser head for processing (laser irradiation). As the speed decreases, the energy of the laser used on the material increases.
